@@ -1,0 +1,28 @@
+{
+  "entry": {
+    "product": {
+      "categories": [
+        {
+          "code": "001",
+          "name": "Category 1"
+        },
+        {
+          "code": "002",
+          "name": "Category 2"
+        },
+        {
+          "code": "003",
+          "name": "Category 3"
+        },
+        {
+          "code": "004",
+          "name": "Category 4"
+        },
+        {
+          "code": "005",
+          "name": "Category 5"
+        }
+      ]
+    }
+  }
+}
